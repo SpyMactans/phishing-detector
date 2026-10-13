@@ -1,0 +1,13 @@
+ml/model.pkl
+ml/dataset.csv
+ml/dataset_info.json
+ml/.venv/
+__pycache__/
+*.pyc
+cpp/detector
+cpp/detector.exe
+*.o
+*.obj
+*.exe
+.vscode/
+.idea/
